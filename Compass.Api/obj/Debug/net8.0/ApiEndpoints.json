@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Compass.Api.Controllers.ProdutoController",
+    "Method": "ListarTodosProdutos",
+    "RelativePath": "api/produtos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

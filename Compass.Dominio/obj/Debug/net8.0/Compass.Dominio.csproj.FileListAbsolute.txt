@@ -1,0 +1,11 @@
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\bin\Debug\net8.0\Compass.Dominio.deps.json
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\bin\Debug\net8.0\Compass.Dominio.dll
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\bin\Debug\net8.0\Compass.Dominio.pdb
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\Compass.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\Compass.Dominio.AssemblyInfoInputs.cache
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\Compass.Dominio.AssemblyInfo.cs
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\Compass.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\Compass.Dominio.dll
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\refint\Compass.Dominio.dll
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\Compass.Dominio.pdb
+C:\Users\capul\Desktop\Compass.Teste\Compass.Dominio\obj\Debug\net8.0\ref\Compass.Dominio.dll

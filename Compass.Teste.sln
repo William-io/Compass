@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Api", "Compass.Api\Compass.Api.csproj", "{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Dominio", "Compass.Dominio\Compass.Dominio.csproj", "{F51AD37E-06C3-45E2-B342-608F6B0DAD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Infraestrutura", "Compass.Infraestrutura\Compass.Infraestrutura.csproj", "{468283DA-E626-43ED-A1DE-B6B678D36DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51AD37E-06C3-45E2-B342-608F6B0DAD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51AD37E-06C3-45E2-B342-608F6B0DAD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51AD37E-06C3-45E2-B342-608F6B0DAD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51AD37E-06C3-45E2-B342-608F6B0DAD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468283DA-E626-43ED-A1DE-B6B678D36DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468283DA-E626-43ED-A1DE-B6B678D36DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468283DA-E626-43ED-A1DE-B6B678D36DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468283DA-E626-43ED-A1DE-B6B678D36DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

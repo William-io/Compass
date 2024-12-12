@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\capul\\Desktop\\Compass.Teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}|Compass.Api\\Compass.Api.csproj|c:\\users\\capul\\desktop\\compass.teste\\compass.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}|Compass.Api\\Compass.Api.csproj|solutionrelative:compass.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}|Compass.Api\\Compass.Api.csproj|c:\\users\\capul\\desktop\\compass.teste\\compass.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6D3281-55D9-4B13-BDEF-7C05ABF5FA34}|Compass.Api\\Compass.Api.csproj|solutionrelative:compass.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\capul\\Desktop\\Compass.Teste\\Compass.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Compass.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\capul\\Desktop\\Compass.Teste\\Compass.Api\\Program.cs",
+              "RelativeToolTip": "Compass.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:25:17.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\capul\\Desktop\\Compass.Teste\\Compass.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Compass.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\capul\\Desktop\\Compass.Teste\\Compass.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Compass.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T15:24:57.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\bin\Debug\net8.0\Compass.Infraestrutura.deps.json
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\bin\Debug\net8.0\Compass.Infraestrutura.runtimeconfig.json
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\bin\Debug\net8.0\Compass.Infraestrutura.dll
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\bin\Debug\net8.0\Compass.Infraestrutura.pdb
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\bin\Debug\net8.0\Compass.Dominio.dll
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\bin\Debug\net8.0\Compass.Dominio.pdb
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.AssemblyInfo.cs
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass..301D50A1.Up2Date
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.dll
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\refint\Compass.Infraestrutura.dll
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.pdb
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\Compass.Infraestrutura.genruntimeconfig.cache
+C:\Users\capul\Desktop\Compass.Teste\Compass.Infraestrutura\obj\Debug\net8.0\ref\Compass.Infraestrutura.dll
