@@ -1,7 +1,7 @@
 # Compass Teste
 
 Esta aplicação faz uso das seguintes tecnologias e práticas:
-
+- **.NET WEB API**: Versão 8.0.
 - **Entity Framework**: Utilizado para mapeamento objeto-relacional (ORM) e acesso a dados.
 - **Dapper**: Utilizado para consultas SQL de alto desempenho.
 - **Clean Architecture**: Adotada para garantir uma separação clara de responsabilidades e facilitar a manutenção e escalabilidade do código.
